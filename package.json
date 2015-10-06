@@ -1,0 +1,30 @@
+{
+  "name": "falafel-loader",
+  "version": "0.0.1",
+  "description": "Run a falafel AST transform as a webpack-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wombleton/falafel-loader.git"
+  },
+  "keywords": [
+    "ast",
+    "falafe",
+    "transform",
+    "webpack",
+    "loader",
+    "webpackloader"
+  ],
+  "author": "Rowan Crawford <wombleton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wombleton/falafel-loader/issues"
+  },
+  "homepage": "https://github.com/wombleton/falafel-loader#readme",
+  "dependencies": {
+    "falafel": "^1.2.0"
+  }
+}
