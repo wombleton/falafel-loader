@@ -1,4 +1,4 @@
-# angular-gettext-extract-loader
+# falafel-loader
 Loader to run falafel AST transforms.
 
 ## Installation
