@@ -1,5 +1,5 @@
 # falafel-loader
-Loader to run falafel AST transforms.
+Loader to run [falafel](https://www.npmjs.com/package/falafel) AST transforms.
 
 ## Installation
 
