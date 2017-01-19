@@ -1,6 +1,6 @@
 {
   "name": "falafel-loader",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Run a falafel AST transform as a webpack-loader",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/wombleton/falafel-loader#readme",
   "dependencies": {
-    "falafel": "^1.2.0"
+    "falafel": "^2.0.0"
   }
 }
